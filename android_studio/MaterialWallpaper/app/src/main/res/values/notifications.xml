@@ -2,6 +2,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="TypographyDashes">
 
     <string name="fcm_notification_topic">material_wallpaper_topic</string>
-    <string name="onesignal_app_id">00000000-0000-0000-0000-000000000000</string>
+    <string name="onesignal_app_id">fb6096f6-14a5-4b01-8fe1-5d8ff61a370e</string>
 
 </resources>
