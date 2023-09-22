@@ -2,7 +2,7 @@
 <resources>
 
     <!--AdMob or Google Ad Manager App ID-->
-    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_app_id">ca-app-pub-8929939118843920~2029785088</string>
 
     <!--AppLovin SDK Key-->
     <string name="applovin_sdk_key">x5ImfykxaMWsntpF6fuNGlFBtC9zBJuGchnmqy4iDgM8EkMRXXXXXXXXXX</string>
