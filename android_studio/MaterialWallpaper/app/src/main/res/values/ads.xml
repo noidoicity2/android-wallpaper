@@ -25,11 +25,11 @@
 
     <!--AdMob-->
     <string name="admob_publisher_id">pub-3940256099942544</string>
-    <string name="admob_banner_unit_id">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="admob_interstitial_unit_id">ca-app-pub-3940256099942544/1033173712</string>
-    <string name="admob_rewarded_unit_id">ca-app-pub-3940256099942544/5224354917</string>
-    <string name="admob_native_unit_id">ca-app-pub-3940256099942544/2247696110</string>
-    <string name="admob_app_open_unit_id">ca-app-pub-3940256099942544/3419835294</string>
+    <string name="admob_banner_unit_id">ca-app-pub-8929939118843920/6692607339</string>
+    <string name="admob_interstitial_unit_id">ca-app-pub-8929939118843920/6887499711</string>
+    <string name="admob_rewarded_unit_id">ca-app-pub-8929939118843920/2561790631</string>
+    <string name="admob_native_unit_id">ca-app-pub-8929939118843920/4752290968</string>
+    <string name="admob_app_open_unit_id">ca-app-pub-8929939118843920/3439209291</string>
 
     <!--Google Ad Manager-->
     <string name="ad_manager_banner_unit_id">/6499/example/banner</string>
