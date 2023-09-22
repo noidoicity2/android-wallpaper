@@ -14,7 +14,7 @@
 
         <include layout="@layout/include_appbar_main_default" />
 
-        <com.zeniwave.materialwallpaper.component.RtlViewPager
+        <com.zeniwave.wallpaper.component.RtlViewPager
             android:id="@+id/view_pager_rtl"
             android:layout_width="match_parent"
             android:layout_height="match_parent"

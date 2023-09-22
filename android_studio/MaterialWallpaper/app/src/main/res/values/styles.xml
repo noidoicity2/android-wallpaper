@@ -11,7 +11,7 @@
         <item name="colorPrimaryDark">@color/color_light_status_bar</item>
         <item name="colorAccent">@color/color_light_accent</item>
         <item name="android:windowBackground">@color/color_light_background</item>
-        <item name="android:fontFamily">@font/custom_font</item>
+        <item name="android:fontFamily">@font/roboto</item>
         <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
         <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">true</item>
         <item name="colorOnSurface">@color/color_light_primary</item>
@@ -27,7 +27,7 @@
         <item name="colorPrimaryDark">@color/color_dark_status_bar</item>
         <item name="colorAccent">@color/color_dark_accent</item>
         <item name="android:windowBackground">@color/color_dark_background</item>
-        <item name="android:fontFamily">@font/custom_font</item>
+        <item name="android:fontFamily">@font/roboto</item>
         <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
         <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">false</item>
         <item name="colorOnSurface">@color/color_white</item>
@@ -82,7 +82,7 @@
     <style name="BottomNavigationView.TextAppearance.Active" parent="TextAppearance.MaterialComponents.Caption">
         <item name="android:textSize">16sp</item>
         <item name="android:textStyle">bold</item>
-        <item name="fontFamily">@font/custom_font</item>
+        <item name="fontFamily">@font/roboto</item>
     </style>
 
     <style name="Material3AlertDialogDefault" parent="ThemeOverlay.Material3.MaterialAlertDialog">
@@ -117,16 +117,16 @@
 
     <style name="ToolbarTitleAppearance" parent="@style/TextAppearance.Widget.AppCompat.Toolbar.Title">
         <item name="android:textSize">20sp</item>
-        <item name="android:fontFamily">@font/custom_font</item>
+        <item name="android:fontFamily">@font/roboto</item>
     </style>
 
     <style name="ToolbarSubtitleAppearance" parent="@style/TextAppearance.Widget.AppCompat.Toolbar.Subtitle">
         <item name="android:textSize">14sp</item>
-        <item name="android:fontFamily">@font/custom_font</item>
+        <item name="android:fontFamily">@font/roboto</item>
     </style>
 
     <style name="ToolbarFontStyle" parent="@style/Base.TextAppearance.AppCompat.Title">
-        <item name="android:fontFamily">@font/custom_font</item>
+        <item name="android:fontFamily">@font/roboto</item>
     </style>
 
     <style name="MaterialButtonStyle" parent="Widget.MaterialComponents.Button">
@@ -241,7 +241,7 @@
     </style>
 
     <style name="Widget.App.TabLayout" parent="@android:style/TextAppearance.Widget.TabWidget">
-        <item name="android:fontFamily">@font/custom_font</item>
+        <item name="android:fontFamily">@font/roboto</item>
         <item name="android:textSize">15sp</item>
     </style>
 

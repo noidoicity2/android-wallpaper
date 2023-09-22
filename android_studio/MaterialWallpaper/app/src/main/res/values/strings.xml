@@ -1,8 +1,8 @@
 <resources>
 
     <!--app info-->
-    <string name="app_name">Material Wallpaper</string>
-    <string name="app_copyright">Copyright &#169; 2023 Solodroid Developer \n All rights reserved</string>
+    <string name="app_name">Zeniwave Wallpaper</string>
+    <string name="app_copyright">Copyright &#169; 2023 Zeniwave Developer \n All rights reserved</string>
     <string name="share_text">I Would like to share this with you. Here You Can Download This Application from PlayStore</string>
 
     <!--navigation name-->
@@ -49,8 +49,8 @@
     <!--network & error message-->
     <string name="whops">Whoops!</string>
     <string name="failed_title_text">Whoops!</string>
-    <string name="failed_text">There is something problem with your network or the server is currently down, please try it again later.</string>
-    <string name="no_category_found">It looks like there are no category available at this time</string>
+    <string name="failed_text">Failed to connect, please try it again later.</string>
+    <string name="no_category_found">No category found!</string>
     <string name="no_search_wallpaper_found">No wallpapers found! if you want to continue search, please try enter another keyword!</string>
     <string name="no_search_category_found">No category found! if you want to continue search, please try enter another keyword!</string>
     <string name="msg_no_item">It looks like there are no wallpapers available in this section.</string>
